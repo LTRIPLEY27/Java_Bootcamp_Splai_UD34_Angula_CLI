@@ -1,1 +1,1 @@
-# Java_Bootcamp_Splai_UD34_Angula_CLI
+# Java_Bootcamp_Splai_UD34_Angular_CLI
